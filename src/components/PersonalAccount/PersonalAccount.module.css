@@ -1,0 +1,39 @@
+.main_info_panel{
+    min-height: 586px;
+    margin-top: 25px;
+    border: 1px solid black;
+    border-radius: 16px;
+    padding-top: 25px;
+    width: 80%;
+}
+.header{
+    font-size: 24px;
+    color: #202020;
+}
+.photo{
+    height: 256px;
+    width: 256px;
+    margin-left: 64px;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+.inf_head{
+    font-size: 20px; 
+}
+.information{
+    margin-left: 64px;
+}
+.info{
+    display: flex;
+    height: 448px;
+}
+.info_elem{
+    font-size: 20px;
+    color: #666666;
+}
+.bottom_line{
+    height: 32px ;
+}
+.bottom_text{
+    font-size: 14px;
+}

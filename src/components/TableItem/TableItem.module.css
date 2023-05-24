@@ -1,0 +1,13 @@
+.table_elem{
+    width: 25%;
+    min-width: 258px;
+    border-bottom: 1px dashed black;
+    height: 64px;
+}
+.delete_btn{
+    background: url('/src/components/img/delete.svg');
+    height: 32px;
+    width: 32px;
+    border: none;
+    background-repeat: no-repeat;
+}

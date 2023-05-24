@@ -1,0 +1,8 @@
+.post_form{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 40%;
+    left: 74%;
+    width: 16%;
+}

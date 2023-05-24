@@ -1,0 +1,47 @@
+.nav_panel{
+    display: flex;
+    gap: 76px;
+    margin-left: 256px;
+    font-size: 14px;
+    
+}
+.nav_link {
+    margin-left: 130px;
+    color: #000;
+    text-decoration: none;
+    background: rgba(0, 128, 0, 0.2);
+    width: 11%;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    font-family: Montserrat;
+    border-radius: 10px 10px 0px 0px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.1em;
+    justify-content: center;
+    border-width: 1px 1px 0px 1px;
+    border-style: solid;
+    border-color: #000000;
+    border-radius: 3px;
+
+}
+
+.login_link {
+    text-decoration: none;
+    color: #000;
+    position: absolute;
+    left: 70%;
+    top: 2.2%;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 8px;
+    border: 1px solid #000000;
+    padding: 12px 12px 12px 12px;
+    background: rgba(0, 128, 0, 0.2);
+}

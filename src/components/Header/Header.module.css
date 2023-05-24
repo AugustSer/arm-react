@@ -1,0 +1,21 @@
+.navbar {
+    font: bold 1rem 'Arial';
+}
+
+.header_logo {
+    color: #000;
+    font-size: 30px;
+    justify-content:baseline;
+    display: flex;
+    margin-left: 600px;
+    padding-top: 16px;
+    margin-bottom: 38px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 13px;
+
+}
+.header {
+    background: #00db6a;
+}
+
